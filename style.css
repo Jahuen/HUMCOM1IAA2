@@ -1,0 +1,53 @@
+
+    .container {
+        width: 500px; height: 700px; border: 1px solid black; background: rgb(161, 159, 159); margin: 0 auto;
+    }
+    .header {
+        border: 1px solid black; background: rgb(219, 216, 216); text-align: center; margin: 10px;
+    }
+    .nav {
+        border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px; padding: 4px;
+    }
+    .section {
+        width: 183px; height: 513px; border: 1px solid black; background: rgb(219, 216, 216); text-align: center; margin-left: 10px;
+    }
+    .header2 {
+        border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .nav2 {
+        height: 370px; border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px;
+    }
+    .footer {
+        border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin-top: 10px;margin-left: 10px; margin-right: 10px ; padding: 15px;
+    }
+    
+    .section2 {
+        width: 283px; height: 513px; border: 1px solid black; background: rgb(219, 216, 216); text-align: center; margin-left: 205px; margin-top: -515px;
+    }
+    .header3 {
+        border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .article {
+        height: 179px ; border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px;
+    }
+    .article2 {
+        height: 179px ; border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin: 10px; margin-bottom: 7px;
+    }
+    .header4 {
+        height: 13.4px ; border: 1px solid black; background: rgb(255, 255, 255); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .p {
+        height: 13.4px; border: 1px solid black; background: rgb(255, 255, 255); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .p3aside {
+        height: 50px; width: 135px; border: 1px solid black; background: rgb(255, 255, 255); padding: 10px; margin:10px; float: left; 
+    }
+    .p2 {
+        height: 13.4px ; border: 1px solid black; background: rgb(255, 255, 255); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .footer3 {
+        height: 13.4px ; border: 1px solid black; background: rgb(255, 255, 255); text-align: center; margin: 10px; margin-bottom: 7px; padding: 6px;
+    }
+    .footer2 {
+        border: 1px solid black; background: rgb(235, 231, 231); text-align: center; margin-top: 10px;margin-left: 10px; margin-right: 10px ; padding: 15px;
+    }
