@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Javascript</title>
+
+        <script>
+            function sayHello(who) {
+                document.write("Hello, " + who);
+            }
+         </script>
+    </head>
+    <body>
+        <script>
+            document.write("Hello World");
+        </script>
+        <br>
+        <script>
+            var words = "This is";
+            var morewords = " a sentence";
+            var sentence = words + morewords;
+            document.write(sentence);
+        </script>
+        <br>
+        <script>
+            var num1 = 5;
+            var num2 = 3;
+            var total = num1 + num2;
+          /*var total = num1++;
+            var total = num1--;
+            var total = ++num1;
+            var total = --num1;
+            */
+            document.write(total);
+        </script>
+        <br>
+        <script>
+            var alpha = "ABCDEFG";
+            //var length = alpha.length;
+            var result = alpha.substring(0, 5)
+            //document.write(length);
+            document.write(result);
+        </script>
+        <br>
+        <script>
+            var a = new Array(7);
+            a[0] = "cat";
+            a[1] = "dog";
+            a[2] = 95;
+            a[6] = true;
+
+            document.write(a[6]);
+
+            /*var a = new Array("cat", "dog", 95, true);
+            document.write(a[1])
+            */
+        </script>
+        <br>
+        <script>
+            sayHello("Bob");
+            document.write("<br>");
+            sayHello("Mary");
+        </script>
+        <br>
+        <script>
+            var a = 12;
+            if(a > 10) {
+                alert(a);
+            }
+        </script>
+        <script>
+            var a = "jake";
+            if(a > "Jake") {
+                alert(a);
+            } else{
+                alert("The condititon was false.");
+            }
+        </script>
+        <script>
+            for (i=0; i<5; i++) {
+                document.write("This is iteration " + i + "<br>")
+;            }
+        </script>
+    </body>
+</html>
